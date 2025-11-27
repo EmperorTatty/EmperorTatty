@@ -57,8 +57,7 @@ I enjoy building:
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/abednegotati](https://www.linkedin.com/)  
-- 📧 Email: abednegotati@gmail.com  
-- 🏢 Company: Ricasoft Technologies  
+- 📧 Email: abedtati1@gmail.com  
 - 🌍 Portfolio:   (https://abednego-tati-portfolio.vercel.app/)
 
 <!--
