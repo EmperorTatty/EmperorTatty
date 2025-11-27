@@ -20,9 +20,9 @@ I enjoy building:
 ## 🛠️ Tech Stack
 
 ### 🚀 Core Skills
-- **Backend**: Python, Frappe, ERPNext, REST APIs  
-- **Frontend**: React, Next.js, TailwindCSS, ShadCN/UI  
-- **Databases**: MariaDB, MySQL, PostgreSQL  
+- **Backend**: Python, Frappe, ERPNext, REST APIs 
+- **Frontend**: React, Next.js, TailwindCSS, ShadCN/UI, Flutter
+- **Databases**: MariaDB, MySQL, PostgreSQL , Firebase   
 - **Data & Visualization**: Pandas, Matplotlib, Jinja Templating  
 - **Version Control**: Git, GitHub  
 
@@ -34,19 +34,23 @@ I enjoy building:
 ---
 
 ## 📌 Highlighted Projects
-- **ERPNext Waste Management System** 🗑️  
-  Custom workflows and quality control modules for managing waste collection, delivery, and dispatching, with integrated **OEE calculations** and automated **PDF reports**.  
+ERPNext Waste Management System 🗑️
+Custom workflows and quality control modules for managing waste collection, delivery, and dispatching, with integrated OEE calculations and automated PDF reports.
 
-- **Customer Statements Generator** 📊  
-  Automated statement generation from ERPNext with **dynamic filters**, **graphs**, and delivery via email/PDF.  
+Water Management System 💧
+End-to-end ERPNext module for tracking water usage, billing, leak alerts, tank refills, and customer consumption reports, complete with automation and custom dashboards.
 
-- **PF Dispatch Automation** 🚚  
-  Custom app to handle sales invoices directly from ERPNext workflows, automatically creating customers and invoices based on dispatch logs.  
+Rental Management System 🏘️
+Full ERPNext solution for managing property listings, tenant onboarding, lease agreements, invoicing, and automated reminders, plus analytics for occupancy and payments.
 
-- **React Dashboard for Vehicle Management** 🚗  
-  Clean and modern frontend app (Next.js + TailwindCSS + ShadCN) displaying live vehicle data with search, filters, and detailed job cards.  
+Customer Statements Generator 📊
+Automated statement generation from ERPNext with dynamic filters, graphs, and seamless delivery via email/PDF.
 
----
+PF Dispatch Automation 🚚
+Custom app that automatically creates customers and sales invoices from dispatch workflows inside ERPNext.
+
+React Dashboard for Vehicle Management 🚗
+Clean and modern frontend app (Next.js + TailwindCSS + ShadCN) displaying live vehicle data with search, filters, and detailed job cards.
 
 ## 📈 GitHub & Activity Stats  
 
